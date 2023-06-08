@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-este es un nuevo repositorio para precourse de henry 
+este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi repositorio local 
